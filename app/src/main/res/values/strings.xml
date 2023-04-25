@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Taller_1_Navegabilidad</string>
+    <string name="birthday">Fecha de Nacimiento</string>
+    <string name="name">Nombre</string>
+    <string name="lastName">Apellido</string>
+    <string name="email">Correo Electronico</string>
+</resources>
